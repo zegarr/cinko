@@ -22,8 +22,8 @@ app.use(morgan("dev"));
 
 //routing
 app.get("/", (req, res) => {
-    res.render("index", {
-        titulo: "Inicio"
+    res.render("home", {
+        titulo: "Cinco Multimarket"
     });
 });
 

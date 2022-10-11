@@ -4250,3 +4250,11 @@ body.is-touch #banner {
 	}
 
 }
+
+.text-primary {
+	color: #23c479;
+}
+
+.text-white {
+	color: #fff;
+}
