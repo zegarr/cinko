@@ -6,12 +6,12 @@
     "nodemon": "^2.0.20"
   },
   "name": "cinko",
-  "description": "Landed by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "description": "Cinko Multimarket Landing Page",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "devDependencies": {},
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
