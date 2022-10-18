@@ -23,7 +23,7 @@ app.use(morgan("dev"));
 //routing
 app.get("/", (req, res) => {
     res.render("home", {
-        titulo: "Cinco Multimarket"
+        titulo: "Cinko Multimarket"
     });
 });
 
